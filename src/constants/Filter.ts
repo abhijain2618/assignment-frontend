@@ -16,3 +16,18 @@ export const filterStatus = [
     text: 'Failed Launches'
   }
 ];
+
+export const filterDate = [
+  {
+    value: 'all',
+    text: 'From Beginning'
+  },
+  {
+    value: 'pastsix',
+    text: 'Past Six Months'
+  },
+  {
+    value: 'upcomingsix',
+    text: 'Upcoming Six Months'
+  }
+];
