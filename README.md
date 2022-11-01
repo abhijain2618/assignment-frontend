@@ -62,7 +62,7 @@ _Steps for local setup_
 
 > Demo Link - AWS : [SpaceX-Dashboard](https://main.d2znggtwcuob0d.amplifyapp.com/)
 
-> Repo - GIT : [Kayak](https://github.com/abhijain2618/assignment-frontend)
+> Repo - GIT : [SpaceX-Repo](https://github.com/abhijain2618/assignment-frontend)
 
 ---
 
